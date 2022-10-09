@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on [Bany](https://trybany.com/) SaaS eCommerce solution.
 - 🤔 I’m looking for help with ... [https://github.com/multicaret/laravel-acquaintances](https://github.com/multicaret/laravel-acquaintances)
 - 📫 How to reach me: [mkwsra.com](https://mkwsra.com)
-- 😄 Pronouns: Well, just Mo/Mo!
+- 😊 Pronouns: He/Him
 - ⚡ Fun fact: I'm Syrian
 
 
