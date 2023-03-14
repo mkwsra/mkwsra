@@ -10,7 +10,7 @@
 ### Welcome 🤩
 
 
-- 🔭 I’m currently working on [Bany](https://trybany.com/) SaaS eCommerce solution.
+- 🔭 I’m currently working on [InstaLocum Inc.](https://staging.instalocum.com/) a SaaS solution for Pharmacies & Pharmacist in 🇨🇦.
 - 🤔 I’m looking for help with ... [https://github.com/multicaret/laravel-acquaintances](https://github.com/multicaret/laravel-acquaintances)
 - 📫 How to reach me: [mkwsra.com](https://mkwsra.com)
 - 😊 Pronouns: He/Him
