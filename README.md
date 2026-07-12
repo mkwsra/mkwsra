@@ -13,8 +13,6 @@
 - 🔭 I’m currently working on [InstaLocum Inc.](https://staging.instalocum.com/) a SaaS solution for Pharmacies & Pharmacists in 🇨🇦. along with other projects in [Multicaret Inc.](https://multicaret.com/)
 - 🤔 I’m looking for help with ... [https://github.com/multicaret/laravel-acquaintances](https://github.com/multicaret/laravel-acquaintances)
 - 📫 How to reach me: [mkwsra.com](https://mkwsra.com)
-- 😊 Pronouns: He/Him
-- ⚡ Fun fact: I'm Syrian
 
 
 <!--
