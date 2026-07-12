@@ -52,9 +52,9 @@ Here are some ideas to get you started:
 </a>
 <!-- </p> -->
 
-<p align="center">
+<!-- <p align="center">
 	<a href="http://mkwsra.com">
 		<img alt="Mo Kawsara's Activity Graph"
 			 src="https://activity-graph.herokuapp.com/graph?username=mkwsra&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 	</a>
-</p>
+</p> -->
