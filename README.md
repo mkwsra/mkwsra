@@ -1,7 +1,7 @@
 <p align="center">
 	<a href="http://mkwsra.com">
 		<img alt="Mo Kawsara's Welcome Message"
-			 src="https://readme-typing-svg.herokuapp.com/?lines=👋+Salam Alaykum+I+am+Mohamed&center=true&width=450&height=55">
+			 src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%91%8B+Salam%20Alaykum+I+am+Mohamed&center=true&width=450&height=55">
 	</a>
 </p>
 
